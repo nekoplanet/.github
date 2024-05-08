@@ -1,2 +1,4 @@
 # .github
-누군가의 소행성, 2023 QW₈(K23QM2W).
+nekoplanet/.github is a special repository.  
+
+The /profile/README.md will appear on the organization's profile.
