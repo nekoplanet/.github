@@ -1,5 +1,5 @@
 ## 안녕, 고양이별! 👋
-누군가의 소행성, 2023 QW₈(K23QM2W).  
+누군가의 소행성, 2023 QW₈(K23QM2W).   
 ​    
 ​     
 ![assets/NekoPlanetUwU.png](https://github.com/nekoplanet/.github/blob/main/assets/uwu_x0.25.png?raw=true)  
